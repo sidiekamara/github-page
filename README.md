@@ -34,7 +34,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-![Untitled-4](https://user-images.githubusercontent.com/50699842/58763434-a0c85d00-850f-11e9-8a45-ba5711f3770e.jpg)
 
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
